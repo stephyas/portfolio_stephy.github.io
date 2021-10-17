@@ -1,0 +1,20 @@
+.home p{
+    font-size: 50px;
+}
+#pic img{
+        width: 35%;
+        height: 35%;
+        padding-left: 30px;
+}
+.skills-content {
+    width: 22%;
+    text-align: center;
+    position: relative;
+    display: inline-table;
+    box-sizing: border-box;
+    padding: 5px;
+    border: 3px solid #af1bf3;
+    margin: 10px;
+}
+
+    
